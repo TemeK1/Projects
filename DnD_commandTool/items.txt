@@ -1,0 +1,252 @@
+Abacus|2 gp|2 lb.|-
+Acid (vial)|25 gp|1 lb.|-
+Alchemist’s fire (flask)|50 gp|1 lb.|-
+Arrows (20)|1 gp|1 lb.|Ammo
+Blowgun needles (50)|1 gp|1 lb.|Ammo
+Crossbow bolts (20)|1 gp|1 1/2 lb.|Ammo
+Sling bullets (20)|4 cp|1 1/2 lb.|Ammo
+Antitoxin (vial)|50 gp|—|-
+Arcane focus Crystal|10 gp|1 lb.|-
+Arcane focus Orb|20 gp|3 lb.|-
+Arcane focus Rod|10 gp|2 lb.|-
+Arcane focus Staff|5 gp|4 lb.|-
+Arcane focus Wand|10 gp|1 lb.|-
+Backpack|2 gp|5 lb.       |-
+Ball bearings (1,000|1 gp|2 lb.|-
+Barrel|2 gp|70 lb.|-
+Basket|4 sp|2 lb.|-
+Bedroll|1 gp|7 lb.|-
+Bell|1 gp|-|-
+Blanket|5 sp|3 lb.|-
+Block and tackle|1 gp|5 lb.|-
+Book|25 gp|5 lb.|-
+Bottle, glass|2 gp|2 lb.|-
+Bucket|5 cp|2 lb.|-
+Caltrops bag of 20|1 gp|2 lb.|-
+Candle|1 cp|—|-
+Case, crossbow bolt|1 gp|1 lb.|-
+Case, map or scroll|1 gp|1 lb.|-
+Chain (10 feet)|5 gp|10 lb.      |-
+Chalk (1 piece)|1 cp|—|-
+Chest|5 gp|25 lb.|-
+Climber's kit|25 gp|12 lb.|-
+Clothes, common|5 sp|3 lb.|-
+Clothes, costume|5 gp|4 lb.|-
+Clothes, fine|15 gp|6 lb.|-
+Clothes, traveler’s|2 gp|4 lb.|-
+Component pouch|25 gp|2 lb.|-
+Crowbar|2 gp|5 lb.|-
+Druidic focus Sprig of mistletoe|1 gp|—|-
+Druidic focus Totem|1 gp|—|-
+Druidic focus Wooden staff|5 gp|4 lb.|-
+Druidic focus Yew wand|10 gp|1 lb.|-
+Fishing tackle|1 gp|4 lb.|-
+Flask or tankard|2 cp|1 lb.|-
+Grappling hook|2 gp|4 lb.|-
+Hammer|1 gp|3 lb.|-
+Hammer, sledge|2 gp|10 lb.|-
+Healer’s kit|5 gp|3 lb.|-
+Holy symbol Amulet|5 gp|1 lb.|-
+Holy symbol Emblem|5 gp|—|-
+Holy symbol Reliquary|5 gp|2 lb.|-
+Holy water (flask)|25 gp|1 lb.|-
+Hourglass|25 gp|1 lb.|-
+Hunting trap|5 gp|25 lb.|-
+Ink (1 ounce bottle)|10 gp|—|-
+Ink pen|2 cp|—|-
+Jug or pitcher|2 cp|4 lb.|-
+Ladder (10-foot)|1 sp|25 lb.|-
+Lamp|5 sp|1 lb.|-
+Lantern, bullseye|10 gp|2 lb.|-
+Lantern, hooded|5 gp|2 lb.|-
+Lock|10 gp|1 lb.|-
+Magnifying glass|100 gp|—|-
+Manacles|2 gp|6 lb.|-
+Mess kit|2 sp|1 lb.|-
+Mirror, steel|5 gp|1/2 lb.|-
+Oil (flask)|1 sp|1 lb.|-
+Paper (one sheet)|2 sp|—|-
+Parchment (one sheet)|1 sp|—|-
+Perfume (vial)|5 g|—|-
+Pick, miner’s|2 gp|10 lb.|-
+Piton|5 cp|1/4 lb.|-
+Poison, basic (vial)|100 gp|—|-
+Pole (10-foot)|5 cp|7 lb.|-
+Pot, iron|2 gp|10 lb.|-
+Potion of healing|50 gp|1/2 lb.|-
+Pouch|5 sp|1 lb.|-
+Quiver|1 gp|1 lb.|-
+Ram, portable|4 gp|35 lb.|-
+Rations (1 day)|5 sp|2 lb|Consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.
+Robes|1 gp|4 lb.|-
+Rope, hempen (50 feet)|1 gp|10 lb.|-
+Rope, silk (50 feet)|10 gp|5 lb.|-
+Sack|1 cp|1/2 lb.|-
+Scale, merchant’s|5 gp|3 lb.|-
+Sealing wax|5 sp|-|-
+Shovel|2 gp|5 lb.|-
+Signal whistle|5 cp|—|-
+Signet ring|5 gp|—|-
+Soap|2 cp|—|-
+Spellboo|50 gp|3 lb.|-
+Spikes, iron (10)|1 gp|5 lb.|-
+Spyglass|1,000 gp |1 lb.|-
+Tent, two-person |2 gp|20 lb.|-
+Tinderbox|5 sp|1 lb.|-
+Torch|1 cp|1 lb.|-
+Vial|1 gp|—|-
+Waterskin|2 sp|5 lb. (full)|-
+Whetstone|1 cp|1 lb.|-
+Alchemist’s supplies|50 gp|8 lb.|Artisan's tools
+Brewer’s supplies|20 gp|9 lb.|Artisan's tools
+Calligrapher's supplies|10 gp|5 lb.|Artisan's tools
+Carpenter’s tools|8 gp|6 lb.|Artisan's tools
+Cartographer’s tools|15 gp|6 lb.|Artisan's tools
+Cobbler’s tools|5 gp|5 lb.|Artisan's tools
+Cook’s utensils|1 gp|8 lb.|Artisan's tools
+Glassblower’s tools|30 gp|5 lb|Artisan's tools
+Jeweler’s tools|25 gp|2 lb.|Artisan's tools
+Leatherworker’s tools|5 gp|5 lb.|Artisan's tools
+Mason’s tools|10 gp|8 lb.|Artisan's tools
+Painter’s supplies|10 gp|5 lb.|Artisan's tools
+Potter’s tools|10 gp|3 lb.|Artisan's tools
+Smith’s tools|20 gp|8 lb.|Artisan's tools
+Tinker’s tools|50 gp|10 lb.|Artisan's tools
+Weaver’s tools|1 gp|5 lb.|Artisan's tools
+Woodcarver's tools|1 gp|5 lb.|Artisan's tools
+Disguise kit|25 gp|3 lb.|-
+Forgery kit|15 gp|5 lb.|-
+Dice set|1 sp|—|Gaming set
+Dragonchess set|1 gp|1/2 lb.|Gaming set
+Playing card set|5 sp|—|Gaming set
+Three-Dragon Ante set|1 gp|—|Gaming set
+Herbalism kit|5 gp|3 lb.|-
+Bagpipes|30 gp|6 lb.|Musical instrument
+Drum|6 gp|3 lb.|Musical instrument
+Dulcimer|25 gp|10 lb.|Musical instrument
+Flute|2 gp|1 lb.|Musical instrument
+Lute|35 gp|2 lb.|Musical instrument
+Lyre|30 gp|2 lb.|Musical instrument
+Horn|3 gp|2 lb.|Musical instrument
+Pan flute|12 gp|2 lb.|Musical instrument
+Shawm|2 gp|1 lb.|Musical instrument
+Viol|30 gp|1 lb.|Musical instrument
+Navigator’s tools|25 gp|2 lb.|-
+Poisoner’s kit|50 gp|2 lb.|-
+Thieves’ tools|25 gp|1 lb.|-
+Camel|50 gp|-|Mounts, speed 50 ft. cc 480 lb.
+Donkey or mule|8 gp |-|Mounts, speed 40 ft. cc 420 lb.
+Elephant|200 gp|-|Mounts, speed 40 ft. cc 1,320 lb.
+Horse, draft|50 gp|-|Mounts, speed 40 ft. cc 540 lb.
+Horse, riding|75 gp|-|Mounts, speed 60 ft. cc 480 lb.
+Mastiff|25 gp|-|Mounts, speed 40 ft. cc 195 lb.
+Pony|30 gp|-|Mounts, speed 40 ft. cc 225 lb.
+Warhorse|400 gp|-|Mounts, speed 60 ft. cc 540 lb.
+Barding|x4 |x2|Tack, harness, drawn vehicles
+Bit and bridle|2 gp|1 lb.|Tack, harness, drawn vehicles
+Carriage|100 gp|600 lb.|Tack, harness, drawn vehicles
+Cart|15 gp|200 lb.|Tack, harness, drawn vehicles
+Chariot|250 gp|100 lb.|Tack, harness, drawn vehicles
+Feed (per day)|5 cp |10 lb.|Tack, harness, drawn vehicles
+Exotic saddle|60 gp|40 lb.|Tack, harness, drawn vehicles
+Military saddle|20 gp|30 lb.|Tack, harness, drawn vehicles
+Saddle pack|5 gp |15 lb.|Tack, harness, drawn vehicles
+Riding saddle|10 gp|25 lb.|Tack, harness, drawn vehicles
+Saddlebags|4 gp |8 lb.|-
+Sled|20 gp|300 lb.|-
+Stabling (per day)|5 sp |— |Caretaking in stable
+Wagon|35 gp|400 lb.|-
+Galley|30,000 gp|-|Waterborne vehicle. Speed 4 mph
+Keelboat|3,000 gp|-|Waterborne vehicle. Speed 1 mph
+Longship|10,000 gp|-|Waterborne vehicle. Speed 3 mph
+Rowboat|50 gp|-|Waterborne vehicle. Speed 1 1/2 mph
+Sailing ship|10,000 gp|-|Waterborne vehicle. Speed 2 mph
+Warship|25,000 gp|-|Waterborne vehicle. Speed 2 1/2 mph 
+Wheat|1 cp|1 lb.|Trade goods
+Flour or one chicken|2 cp|1 lb.|Trade goods
+Salt|5 cp|1 lb.|Trade goods
+Canvas or iron|1 sp|1 lb.|Trade goods
+Cotton cloth or copper|5 sp|1 lb.|Trade goods
+Ginger or one goat|1 gp|1 lb.|Trade goods
+Cinnamon, pepper or sheep|2 gp|1 lb.|Trade goods
+Cloves or one pig|3 gp|1 lb.|Trade goods
+Silver or linen|5 gp|1 lb.|Trade goods
+Silk or one cow|10 gp|-|Trade goods
+Saffron or one ox|15 gp|1 lb.|Trade goods
+Gold|50 gp|1 lb.|Trade goods
+Platinum|500 gp|1 lb.|Trade goods
+Gallon|2 sp|-|Ale. Food, drink, and lodging
+Mug |4 cp|-|Ale. Food, drink and lodging
+Banquet (per person)|10 gp|-|Food, drink and lodging
+Bread, loaf|2 cp|-|Food, drink and lodging
+Cheese, hunk|1 sp|-|Food, drink and lodging
+Inn stay squalid|7 cp|-|Per day. Food, drink and lodging
+Inn stay poor|1 sp|-|Per day. Food, drink and lodging
+Inn stay modest|5 sp|-|Per day. Food, drink and lodging 
+Inn stay comfortable|8 sp|-|Per day. Food, drink and lodging
+Inn stay wealthy|2 gp|-|Per day. Food, drink and lodging
+Inn stay Aristocratic|4 gp|-|Per day. Food, drink and lodging
+Meals squalid|3 cp|-|Per day. Food, drink and lodging
+Meals poor|6 cp|-|Per day. Food, drink and lodging
+Meals modest|3 sp|-|Per day. Food, drink and lodging
+Meals comfortable|5 sp|-|Per day. Food, drink and lodging
+Meals wealthy|8 sp|-|Per day. Food, drink and lodging
+Meals Aristocratic|2 gp|-|Per day. Food, drink and lodging
+Meat, chunk|3 sp|-|Food, drink and lodging
+Common wine (pitcher)|2 sp|-|Food, drink and lodging
+Fine wine (bottle)|10 gp|-|Food, drink and lodging
+Padded light armor|5 gp|8 lb.|AC: 11 + Dex mod, Stealth: disadvantage
+Leather light armor|10 gp|10 lb.|AC: 11 + Dex mod
+Studded leather light armor|45 gp|13 lb.|AC: 12 + Dex mod
+Hide medium armor|10 gp|12 lb.|AC: 12 + Dex mod (max 2)
+Chain shirt medium armor|50 gp|20 lb.|AC: 13 + Dex mod (max 2)
+Scale mail medium armor|50 gp|45 lb.|AC: 14 + Dex mod (max 2), Stealth: disadvantage
+Breastplate medium armor|400 gp|20 lb.|AC: 14 + Dex mod (max 2)
+Half plate medium armor|750 gp|40 lb.|AC: 15 + Dex mod (max 2), Stealth: disadvantage
+Ring mail heavy armor|30 gp|40 lb.|AC: 14, Stealth: disadvantage
+Chain mail heavy armor|75 gp|55 lb.|AC: 16, req. Str 13, Stealth: disadvantage
+Splint heavy armor|200 gp|60 lb.|AC: 17, req. Str 15, Stealth: disadvantage
+Plate heavy armor|1,500 gp|65 lb.|AC: 18, req. Str 15, Stealth: disadvantage
+Shield|10 gp.|6 lb.|Armor. AC: +2
+Light Armor|-|-|Don: 1 minute, doff: 1 minute
+Medium Armor|-|-|Don: 5 minutes, doff: 1 minute
+Heavy Armor|-|-|Don: 10 minutes, doff: 5 minutes
+Shield|-|-|Armor. Don: 1 action, doff: 1 action
+Club|1 sp|2 lb.|1d4 bludgeoning. Light. Simple melee weapons
+Dagger|2 gp|1 lb.|1d4 piercing. Finesse, light, thrown (range 20/60). Simple melee weapons
+Greatclub|2 sp|10 lb.|1d8 bludgeoning. Two-handed. Simple melee weapons
+Handaxe|5 gp|2 lb.|1d6 slashing. Light, thrown (range 20/60). Simple melee weapons
+Javelin|5 sp|2 lb.|1d6 piercing. Thrown (range 30/120). Simple melee weapons
+Light hammer|2 gp|2 lb.|1d4 bludgeoning. Light, thrown (range 20/60). Simple melee weapons
+Mace|5 gp|4 lb.|1d6 bludgeoning. Simple melee weapons
+Quarterstaff|2 sp|4 lb.|1d6 bludgeoning. Versatile (1d8). Simple melee weapons
+Sickle|1 gp|2 lb.|1d4 slashing. Light. Simple melee weapons
+Spear|1 gp|3 lb.|1d6 piercing. Thrown (range 20/60), versatile (1d8). Simple melee weapons
+Crossbow, light|25 gp|5 lb.|1d8 piercing. Ammunition (range 80/320), loading, two-handed. Simple ranged weapons
+Dart|5 cp|1/4 lb.|1d4 piercing. Finesse, thrown (range 20/60). Simple ranged weapons
+Shortbow|25 gp|2 lb.|1d6 piercing. Ammunition (range 80/320), two-handed. Simple ranged weapons
+Sling|1 sp|-|1d4 bludgeoning. Ammunition (range 30/120). Simple ranged weapons
+Battleaxe|10 gp|4 lb.|1d8 slashing. Versatile (1d10). Martial melee weapons
+Flail|10 gp|2 lb.|1d8 bludgeoning. Martial melee weapons
+Glaive|20 gp|6 lb.|1d10 slashing. Heavy, reach, two-handed. Martial melee weapons
+Greataxe|30 gp|7 lb.|1d12 slashing. Heavy, two-handed. Martial melee weapons
+Greatsword|50 gp|6 lb.|2d6 slashing. Heavy, two-handed. Martial melee weapons
+Halberd|20 gp|6 lb.|1d10 slashing. Heavy, reach, two-handed. Martial melee weapons
+Lance|10 gp|6 lb.|1d12 piercing. Reach, special. Martial melee weapons
+Longsword|15 gp|3 lb.|1d8 slashing. Versatile (1d10). Martial melee weapons
+Maul|10 gp|10 lb.|2d6 bludgeoning. Heavy, two-handed. Martial melee weapons
+Morningstar|15 gp|4 lb.|1d8 piercing. Martial melee weapons
+Pike|5 gp|18 lb.|1d10 piercing. Heavy, reach, two-handed. Martial melee weapons
+Rapier|25 gp|2 lb.|1d8 piercing. Finesse. Martial melee weapons
+Scimitar|25 gp|3 lb.|1d6 slashing. Finesse, light. Martial melee weapons
+Shortsword|10 gp|2 lb.|1d6 piercing. Finesse, light. Martial melee weapons
+Trident|5 gp|4 lb.|1d6 piercing. Thrown (range 20/60), versatile (1d8). Martial melee weapons
+War pick|5 gp|2 lb.|1d8 piercing. Martial melee weapons
+Warhammer|15 gp|2 lb.|1d8 bludgeoning. Versatile (1d10). Martial melee weapons
+Whip|2 gp|3 lb.|1d4 slashing. Finesse, reach. Martial melee weapons
+Blowgun|10 gp|1 lb.|1 piercing. Ammunition (range 25/100), loading. Martial ranged weapons
+Crossbow, hand|75 gp|3 lb.|1d6 piercing. Ammunition (range 30/120), light, loading. Martial ranged weapons
+Crossbow, heavy|50 gp|18 lb.|1d10 piercing. Ammunition (range 100/400), heavy, loading, two-handed. Martial ranged weapons
+Longbow|50 gp|2 lb.|1d8 piercing. Ammunition (range 150/600), heavy, two-handed. Martial ranged weapons
+Net|1 gp|3 lb.|-. Special, thrown (range 5/15). Martial ranged weapons
+

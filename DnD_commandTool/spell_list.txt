@@ -1,0 +1,427 @@
+0|0|0|0|0|1|0|1|0|1|1|0|0|1 action       |60 feet                        |Acid Splash                       |Conjuration  |Instantaneous          |0    
+1|0|0|0|0|1|1|1|0|1|1|0|0|1 action       |Self                           |Blade Ward                        |Abjuration   |1 round                |0    
+0|0|0|0|0|1|1|1|0|1|0|1|0|1 action       |5 feet                         |Booming Blade                     |Evocation    |1 round                |0    
+0|0|0|0|0|1|1|1|0|1|1|0|0|1 action       |120 feet                       |Chill Touch                       |Necromancy   |1 round                |0    
+0|0|1|0|0|1|0|1|0|0|1|0|0|1 action       |60 feet                        |Control Flames                    |Transmutation|Instantaneous or 1 hour|0    
+0|0|1|0|0|1|1|1|0|1|1|0|1|1 action       |60 feet                        |Create Bonfire                    |Conjuration  |Up to 1 minute         |0    
+1|0|0|0|0|1|0|1|0|1|1|1|1|1 action       |120 feet                       |Dancing Lights                    |Evocation    |Up to 1 minute         |0    
+0|0|1|0|0|0|0|0|0|1|1|0|0|1 action       |30 feet                        |Druidcraft                        |Transmutation|Instantaneous          |0    
+0|0|0|0|0|0|1|0|0|1|1|0|0|1 action       |120 feet                       |Eldritch Blast                    |Evocation    |Instantaneous          |0    
+0|0|0|0|0|1|0|1|0|1|1|0|0|1 action       |120 feet                       |Fire Bolt                         |Evocation    |Instantaneous          |0    
+1|0|0|0|0|1|1|1|0|0|1|1|1|1 action       |Self                           |Friends                           |Enchantment  |Up to 1 minute         |0    
+0|0|1|0|0|1|1|1|0|1|1|0|0|1 action       |60 feet                        |Frostbite                         |Evocation    |Instantaneous          |0    
+0|0|0|0|0|1|1|1|0|1|0|1|0|1 action       |5 feet                         |Green-Flame Blade                 |Evocation    |Instantaneous          |0    
+0|1|1|0|0|0|0|0|0|1|1|0|1|1 action       |Touch                          |Guidance                          |Divination   |Up to 1 minute         |0    
+0|0|1|0|0|1|0|1|0|1|1|0|0|1 action       |30 feet                        |Gust                              |Transmutation|Instantaneous          |0    
+1|1|0|0|0|1|0|1|0|1|0|1|0|1 action       |Touch                          |Light                             |Evocation    |1 hour                 |0    
+0|0|0|0|0|1|1|1|0|1|0|0|0|1 action       |15 feet                        |Lightning Lure                    |Evocation    |Instantaneous          |0    
+1|0|0|0|0|1|1|1|0|1|1|0|0|1 action       |30 feet                        |Mage Hand                         |Conjuration  |1 minute               |0    
+0|0|1|0|0|0|1|0|0|1|1|0|0|1 bonus action |Touch                          |Magic Stone                       |Transmutation|1 minute               |0    
+1|1|1|0|0|1|0|1|0|1|1|1|0|1 minute       |Touch                          |Mending                           |Transmutation|Instantaneous          |0    
+1|0|0|0|0|1|0|1|0|1|1|1|0|1 action       |120 feet                       |Message                           |Transmutation|1 round                |0    
+1|0|0|0|0|1|1|1|0|0|1|1|0|1 action       |30 feet                        |Minor Illusion                    |Illusion     |1 minute               |0    
+0|0|1|0|0|1|0|1|0|0|1|0|0|1 action       |30 feet                        |Mold Earth                        |Transmutation|Instantaneous or 1 hour|0    
+0|0|0|0|0|0|0|0|0|1|1|0|0|1 action       |60 feet                        |On/Off                            |Transmutation|Instantaneous          |0    
+0|0|1|0|0|1|1|1|0|1|1|0|0|1 action       |10 feet                        |Poison Spray                      |Conjuration  |Instantaneous          |0    
+1|0|0|0|0|1|1|1|0|1|1|0|0|1 action       |10 feet                        |Prestidigitation                  |Transmutation|Up to 1 hour           |0    
+0|0|1|0|0|0|0|0|0|1|1|0|0|1 action       |Self                           |Produce Flame                     |Conjuration  |10 minutes             |0    
+0|0|0|0|0|1|0|1|0|1|1|0|0|1 action       |60 feet                        |Ray of Frost                      |Evocation    |Instantaneous          |0    
+0|1|1|0|0|0|0|0|0|1|1|1|1|1 action       |Touch                          |Resistance                        |Abjuration   |Up to 1 minute         |0    
+0|1|0|0|0|0|0|0|0|1|1|0|0|1 action       |60 feet                        |Sacred Flame                      |Evocation    |Instantaneous          |0    
+0|0|1|0|0|1|0|1|0|0|1|0|0|1 action       |30 feet                        |Shape Water                       |Transmutation|Instantaneous or 1 hour|0    
+0|0|1|0|0|0|0|0|0|1|1|1|0|1 bonus action |Touch                          |Shillelagh                        |Transmutation|1 minute               |0    
+0|0|0|0|0|1|0|1|0|1|1|0|0|1 action       |Touch                          |Shocking Grasp                    |Evocation    |Instantaneous          |0    
+0|1|0|0|0|0|0|0|0|1|1|0|0|1 action       |Touch                          |Spare the Dying                   |Necromancy   |Instantaneous          |0    
+0|0|0|0|0|1|1|1|0|1|0|0|0|1 action       |5 feet                         |Sword Burst                       |Conjuration  |Instantaneous          |0    
+0|1|0|0|0|0|0|0|0|1|0|0|0|1 action       |30 feet                        |Thaumaturgy                       |Transmutation|Up to 1 minute         |0    
+0|0|1|0|0|0|0|0|0|1|1|1|0|1 action       |30 feet                        |Thorn Whip                        |Transmutation|Instantaneous          |0    
+1|0|1|0|0|1|1|1|0|0|1|0|0|1 action       |Self (5-foot radius)           |Thunderclap                       |Evocation    |Instantaneous          |0    
+1|0|0|0|0|1|1|1|0|0|1|0|1|1 action       |30 feet                        |True Strike                       |Divination   |Up to 1 round          |0    
+1|0|0|0|0|0|0|0|0|1|0|0|0|1 action       |60 feet                        |Vicious Mockery                   |Enchantment  |Instantaneous          |0    
+0|0|1|0|1|0|0|1|1|0|1|0|0|1 reaction     |Self                           |Absorb Elements                   |Abjuration   |1 round                |0    
+0|0|0|0|1|0|0|1|1|1|1|1|0|1 minute       |30 feet                        |Alarm                             |Abjuration   |8 hours                |0    
+1|0|1|0|1|0|0|0|1|1|1|1|0|1 action       |30 feet                        |Animal Friendship                 |Enchantment  |24 hours               |0    
+0|0|0|0|0|0|1|0|1|1|1|1|0|1 action       |Self                           |Armor of Agathys                  |Abjuration   |1 hour                 |0    
+0|0|0|0|0|0|1|0|1|1|1|0|0|1 action       |Self (10-foot radius)          |Arms of Hadar                     |Conjuration  |Instantaneous          |0    
+1|1|0|0|0|0|0|0|1|1|1|1|1|1 action       |30 feet                        |Bane                              |Enchantment  |Up to 1 minute         |0    
+0|0|1|0|1|0|0|0|1|1|1|1|1|1 action       |Touch                          |Beast Bond                        |Divination   |Up to 10 minutes       |0    
+0|1|0|1|0|0|0|0|1|1|1|1|1|1 action       |30 feet                        |Bless                             |Enchantment  |Up to 1 minute         |0    
+0|0|0|0|0|1|0|1|1|1|1|0|0|1 action       |Self (15-foot cone)            |Burning Hands                     |Evocation    |Instantaneous          |0    
+0|0|0|0|0|1|0|1|1|0|1|0|0|1 action       |150 feet                       |Catapult                          |Transmutation|Instantaneous          |0    
+1|0|1|0|0|1|1|1|1|1|1|0|0|1 action       |30 feet                        |Charm Person                      |Enchantment  |1 hour                 |0    
+0|0|0|0|0|1|0|1|1|1|1|1|0|1 action       |90 feet                        |Chromatic Orb                     |Evocation    |Instantaneous          |50   
+0|0|0|0|0|1|0|1|1|1|1|1|0|1 action       |Self (15-foot cone)            |Color Spray                       |Illusion     |1 round                |0    
+0|1|0|1|0|0|0|0|1|1|0|0|0|1 action       |60 feet                        |Command                           |Enchantment  |1 round                |0    
+0|0|0|1|0|0|0|0|1|1|0|0|1|1 bonus action |30 feet                        |Compelled Duel                    |Enchantment  |Up to 1 minute         |0    
+1|0|0|0|0|1|1|1|1|1|1|1|0|1 action       |Self                           |Comprehend Languages              |Divination   |1 hour                 |0    
+0|1|1|0|0|0|0|0|1|1|1|1|0|1 action       |30 feet                        |Create or Destroy Water           |Transmutation|Instantaneous          |0    
+1|1|1|1|1|0|0|0|1|1|1|0|0|1 action       |Touch                          |Cure Wounds                       |Evocation    |Instantaneous          |0    
+0|1|0|1|0|0|0|0|1|1|1|0|1|1 action       |Self                           |Detect Evil and Good              |Divination   |Up to 10 minutes       |0    
+1|1|1|1|1|1|0|1|1|1|1|0|1|1 action       |Self                           |Detect Magic                      |Divination   |Up to 10 minutes       |0    
+0|1|1|1|1|0|0|0|1|1|1|1|1|1 action       |Self                           |Detect Poison and Disease         |Divination   |Up to 10 minutes       |0    
+1|0|0|0|0|1|0|1|1|1|1|0|0|1 action       |Self                           |Disguise Self                     |Illusion     |1 hour                 |0    
+1|0|0|0|0|0|0|0|1|1|0|0|0|1 action       |60 feet                        |Dissonant Whispers                |Enchantment  |Instantaneous          |0    
+0|0|0|1|0|0|0|0|1|1|1|0|1|1 bonus action |Self                           |Divine Favor                      |Evocation    |Up to 1 minute         |0    
+1|0|1|0|0|1|0|1|1|1|1|0|0|1 action       |Self (10-foot radius)          |Earth Tremor                      |Evocation    |Instantaneous          |0    
+0|0|0|0|1|0|0|0|1|1|0|0|1|1 bonus action |Self                           |Ensnaring Strike                  |Conjuration  |Up to 1 minute         |0    
+0|0|1|0|0|0|0|0|1|1|1|0|1|1 action       |90 feet                        |Entangle                          |Conjuration  |Up to 1 minute         |0    
+0|0|0|0|0|1|1|1|1|1|1|0|1|1 bonus action |Self                           |Expeditious Retreat               |Transmutation|Up to 10 minutes       |0    
+1|0|1|0|0|0|0|0|1|1|0|0|1|1 action       |60 feet                        |Faerie Fire                       |Evocation    |Up to 1 minute         |0    
+0|0|0|0|0|1|0|1|1|1|1|1|0|1 action       |Self                           |False Life                        |Necromancy   |1 hour                 |0    
+1|0|0|0|0|1|0|1|1|1|0|1|0|1 reaction     |60 feet                        |Feather Fall                      |Transmutation|1 minute               |0    
+0|0|0|0|0|0|0|1|1|1|1|1|0|1 hour         |10 feet                        |Find Familiar                     |Conjuration  |Instantaneous          |10   
+0|0|1|0|1|1|0|1|1|1|1|0|1|1 action       |120 feet                       |Fog Cloud                         |Conjuration  |Up to 1 hour           |0    
+0|0|1|0|1|0|0|0|1|1|1|1|0|1 action       |Touch                          |Goodberry                         |Transmutation|Instantaneous          |0    
+0|0|0|0|0|0|0|1|1|1|1|1|0|1 action       |60 feet                        |Grease                            |Conjuration  |1 minute               |0    
+0|1|0|0|0|0|0|0|1|1|1|0|0|1 action       |120 feet                       |Guiding Bolt                      |Evocation    |1 round                |0    
+0|0|0|0|1|0|0|0|1|1|0|0|1|1 bonus action |Self                           |Hail of Thorns                    |Conjuration  |Up to 1 minute         |0    
+1|1|1|0|0|0|0|0|1|1|0|0|0|1 bonus action |60 feet                        |Healing Word                      |Evocation    |Instantaneous          |0    
+0|0|0|0|0|0|1|0|1|1|1|0|0|1 reaction     |60 feet                        |Hellish Rebuke                    |Evocation    |Instantaneous          |0    
+1|0|0|1|0|0|0|0|1|1|1|0|1|1 action       |Touch                          |Heroism                           |Enchantment  |Up to 1 minute         |0    
+0|0|0|0|0|0|1|0|1|1|1|1|1|1 bonus action |90 feet                        |Hex                               |Enchantment  |Up to 1 hour           |0    
+0|0|0|0|1|0|0|0|1|1|0|0|1|1 bonus action |90 feet                        |Hunter's Mark                     |Divination   |Up to 1 hour           |0    
+0|0|1|0|0|1|0|1|1|0|1|1|0|1 action       |60 feet                        |Ice Knife                         |Conjuration  |Instantaneous          |0    
+1|0|0|0|0|0|0|1|1|1|1|1|0|1 minute       |Touch                          |Identify                          |Divination   |Instantaneous          |100  
+1|0|0|0|0|0|1|1|1|0|1|1|0|1 minute       |Touch                          |Illusory Script                   |Illusion     |10 days                |10   
+0|0|0|0|0|0|0|0|1|1|1|1|1|1 minute       |Self                           |Infallible Relay                  |Divination   |Up to 10 minutes       |0    
+0|1|0|0|0|0|0|0|1|1|1|0|0|1 action       |Touch                          |Inflict Wounds                    |Necromancy   |Instantaneous          |0    
+0|0|1|0|1|1|0|1|1|1|1|1|0|1 action       |Touch                          |Jump                              |Transmutation|1 minute               |0    
+1|0|1|0|1|0|0|1|1|1|1|1|0|1 action       |Touch                          |Longstrider                       |Transmutation|1 hour                 |0    
+0|0|0|0|0|1|0|1|1|1|1|1|0|1 action       |Touch                          |Mage Armor                        |Abjuration   |8 hours                |0    
+0|0|0|0|0|1|0|1|1|1|1|0|0|1 action       |120 feet                       |Magic Missile                     |Evocation    |Instantaneous          |0    
+0|1|0|1|0|0|1|1|1|1|1|1|1|1 action       |Touch                          |Protection from Evil and Good     |Abjuration   |Up to 10 minutes       |0    
+0|1|1|1|0|0|0|0|1|1|1|0|0|1 action       |10 feet                        |Purify Food and Drink             |Transmutation|Instantaneous          |0    
+0|0|0|0|0|1|0|1|1|1|1|0|0|1 action       |60 feet                        |Ray of Sickness                   |Necromancy   |Instantaneous          |0    
+0|0|0|0|0|0|0|0|1|1|1|0|0|1 action       |120 feet                       |Remote Access                     |Transmutation|10 minutes             |0    
+0|1|0|0|0|0|0|0|1|1|1|1|0|1 bonus action |30 feet                        |Sanctuary                         |Abjuration   |1 minute               |0    
+0|0|0|1|0|0|0|0|1|1|0|0|1|1 bonus action |Self                           |Searing Smite                     |Evocation    |Up to 1 minute         |0    
+0|0|0|0|0|1|0|1|1|1|1|0|0|1 reaction     |Self                           |Shield                            |Abjuration   |1 round                |0    
+0|1|0|1|0|0|0|0|1|1|1|1|1|1 bonus action |60 feet                        |Shield of Faith                   |Abjuration   |Up to 10 minutes       |0    
+1|0|0|0|0|1|0|1|1|1|1|1|0|1 action       |60 feet                        |Silent Image                      |Illusion     |1 minute               |0    
+1|0|0|0|0|1|0|1|1|1|1|1|0|1 action       |90 feet                        |Sleep                             |Enchantment  |1 minute               |0    
+1|0|1|0|1|0|0|0|1|1|1|0|0|1 action       |Self                           |Speak with Animals                |Divination   |10 minutes             |0    
+1|0|0|0|0|0|0|1|1|1|1|1|1|1 action       |30 feet                        |Tasha's Hideous Laughter          |Enchantment  |Up to 1 minute         |0    
+0|0|0|0|0|0|0|1|1|1|1|1|0|1 action       |30 feet                        |Tenser's Floating Disk            |Conjuration  |1 hour                 |0    
+0|0|0|1|0|0|0|0|1|1|0|0|1|1 bonus action |Self                           |Thunderous Smite                  |Evocation    |Up to 1 minute         |0    
+1|0|1|0|0|1|0|1|1|1|1|0|0|1 action       |Self (15-foot cube)            |Thunderwave                       |Evocation    |Instantaneous          |0    
+1|0|0|0|0|0|1|1|1|1|1|1|0|1 action       |60 feet                        |Unseen Servant                    |Conjuration  |1 hour                 |0    
+0|0|0|0|0|1|1|1|1|1|1|1|1|1 action       |30 feet                        |Witch Bolt                        |Evocation    |Up to 1 minute         |0    
+0|0|0|1|0|0|0|0|1|1|0|0|1|1 bonus action |Self                           |Wrathful Smite                    |Evocation    |Up to 1 minute         |0    
+0|0|0|0|0|1|0|1|2|1|1|1|0|1 action       |30 feet                        |Aganazzar's Scorcher              |Evocation    |Instantaneous          |0    
+0|1|0|1|0|0|0|0|2|1|1|1|0|1 action       |30 feet                        |Aid                               |Abjuration   |8 hours                |0    
+0|0|0|0|0|1|0|1|2|1|1|0|1|1 action       |Self                           |Alter Self                        |Transmutation|Up to 1 hour           |0    
+1|0|1|0|1|0|0|0|2|1|1|1|0|1 action       |30 feet                        |Animal Messenger                  |Enchantment  |24 hours               |0    
+0|0|0|0|0|0|0|0|2|1|1|1|1|1 action       |Self                           |Arcane Hacking                    |Transmutation|Up to 1 hour           |0    
+0|0|0|0|0|0|0|1|2|1|1|1|0|1 action       |Touch                          |Arcane Lock                       |Abjuration   |Until dispelled        |25   
+0|1|0|0|0|0|0|0|2|1|1|1|0|1 minute       |Self                           |Augury                            |Divination   |Instantaneous          |25   
+0|0|1|0|1|0|0|0|2|1|1|1|1|1 action       |Touch                          |Barkskin                          |Transmutation|Up to 1 hour           |0    
+0|0|1|0|1|0|0|0|2|0|1|0|1|1 action       |Touch                          |Beast Sense                       |Divination   |Up to 1 hour           |0    
+1|1|0|0|0|1|0|1|2|1|0|0|0|1 action       |30 feet                        |Blindness/Deafness                |Necromancy   |1 minute               |0    
+0|0|0|0|0|1|0|1|2|1|0|0|1|1 action       |Self                           |Blur                              |Illusion     |Up to 1 minute         |0    
+0|0|0|1|0|0|0|0|2|1|0|0|1|1 bonus action |Self                           |Branding Smite                    |Evocation    |Up to 1 minute         |0    
+1|1|0|0|0|0|0|0|2|1|1|0|1|1 action       |60 feet                        |Calm Emotions                     |Enchantment  |Up to 1 minute         |0    
+1|0|0|0|0|1|1|1|2|1|1|1|1|1 action       |60 feet                        |Cloud of Daggers                  |Conjuration  |Up to 1 minute         |0    
+0|1|0|0|0|0|0|1|2|1|1|1|0|1 action       |Touch                          |Continual Flame                   |Evocation    |Until dispelled        |50   
+0|0|0|0|1|0|0|0|2|1|1|1|0|1 action       |5 feet                         |Cordon of Arrows                  |Transmutation|8 hours                |0    
+1|0|0|0|0|1|1|1|2|1|1|0|1|1 action       |120 feet                       |Crown of Madness                  |Enchantment  |Up to 1 minute         |0    
+0|0|0|0|0|1|1|1|2|1|0|1|1|1 action       |60 feet                        |Darkness                          |Evocation    |Up to 10 minutes       |0    
+0|0|1|0|1|1|0|1|2|1|1|1|0|1 action       |Touch                          |Darkvision                        |Transmutation|8 hours                |0    
+1|0|0|0|0|1|0|1|2|1|1|1|1|1 action       |Self                           |Detect Thoughts                   |Divination   |Up to 1 minute         |0    
+0|0|0|0|0|0|0|0|2|1|1|1|1|1 action       |Self                           |Digital Phantom                   |Abjuration   |Up to 1 hour           |0    
+0|0|1|0|0|1|0|1|2|1|1|1|1|1 action       |60 feet                        |Dust Devil                        |Conjuration  |Up to 1 minute         |0    
+0|0|1|0|0|1|1|1|2|1|0|0|1|1 action       |300 feet                       |Earthbind                         |Transmutation|Up to 1 minute         |0    
+1|1|1|0|0|1|0|0|2|1|1|1|1|1 action       |Touch                          |Enhance Ability                   |Transmutation|Up to 1 hour           |0    
+0|0|0|0|0|1|0|1|2|1|1|1|1|1 action       |30 feet                        |Enlarge/Reduce                    |Transmutation|Up to 1 minute         |0    
+1|0|0|0|0|0|1|0|2|1|1|0|0|1 action       |60 feet                        |Enthrall                          |Enchantment  |1 minute               |0    
+0|0|0|1|0|0|0|0|2|1|1|0|0|10 minutes     |30 feet                        |Find Steed                        |Conjuration  |Instantaneous          |0    
+0|1|1|0|1|0|0|0|2|1|1|0|0|1 action       |120 feet                       |Find Traps                        |Divination   |Instantaneous          |0    
+0|0|0|0|0|0|0|0|2|1|1|0|0|10 minutes     |30 feet                        |Find Vehicle                      |Conjuration  |8 hours                |0    
+0|0|1|0|0|0|0|0|2|1|1|1|1|1 bonus action |Self                           |Flame Blade                       |Evocation    |Up to 10 minutes       |0    
+0|0|1|0|0|0|0|1|2|1|1|1|1|1 action       |60 feet                        |Flaming Sphere                    |Conjuration  |Up to 1 minute         |0    
+0|1|0|0|0|0|0|1|2|1|1|1|0|1 action       |Touch                          |Gentle Repose                     |Necromancy   | 10 days               |0    
+0|0|1|0|0|1|0|1|2|1|1|1|1|1 action       |Self (60-foot line)            |Gust of Wind                      |Evocation    |Up to 1 minute         |0    
+1|0|1|0|0|0|0|0|2|1|1|1|1|1 action       |60 feet                        |Heat Metal                        |Transmutation|Up to 1 minute         |0    
+1|1|1|0|0|1|1|1|2|1|1|1|1|1 action       |60 feet                        |Hold Person                       |Enchantment  |Up to 1 minute         |0    
+1|0|0|0|0|1|1|1|2|1|1|1|1|1 action       |Touch                          |Invisibility                      |Illusion     |Up to 1 hour           |0    
+1|0|0|0|0|1|0|1|2|1|0|0|0|1 action       |60 feet                        |Knock                             |Transmutation|Instantaneous          |0    
+1|1|1|1|1|0|0|0|2|1|1|0|0|1 action       |Touch                          |Lesser Restoration                |Abjuration   |Instantaneous          |0    
+0|0|0|0|0|1|0|1|2|1|1|1|1|1 action       |60 feet                        |Levitate                          |Transmutation|Up to 10 minutes       |0    
+1|0|1|0|1|0|0|0|2|1|1|1|0|1 action       |Self                           |Locate Animals or Plants          |Divination   |Instantaneous          |0    
+1|1|1|1|1|0|0|1|2|1|1|1|1|1 action       |Self                           |Locate Object                     |Divination   |Up to 10 minutes       |0    
+1|0|0|0|0|0|0|1|2|1|1|1|0|1 minute       |30 feet                        |Magic Mouth                       |Illusion     |Until dispelled        |10   
+0|0|0|1|0|0|0|1|2|1|1|0|1|1 bonus action |Touch                          |Magic Weapon                      |Transmutation|Up to 1 hour           |0    
+0|0|0|0|0|1|0|1|2|1|1|1|1|1 action       |30 feet                        |Maximilian's Earthen Grasp        |Transmutation|Up to 1 minute         |0    
+0|0|0|0|0|0|0|1|2|1|1|1|0|1 action       |90 feet                        |Melf's Acid Arrow                 |Evocation    |Instantaneous          |0    
+0|0|0|0|0|1|1|1|2|1|1|0|0|1 action       |Self                           |Mirror Image                      |Illusion     |1 minute               |0    
+0|0|0|0|0|1|1|1|2|1|0|0|0|1 bonus action |Self                           |Misty Step                        |Conjuration  |Instantaneous          |0    
+0|0|1|0|0|0|0|0|2|1|1|1|1|1 action       |120 feet                       |Moonbeam                          |Evocation    |Up to 1 minute         |0    
+0|0|0|0|0|0|0|1|2|1|1|1|0|1 action       |Touch                          |Nystul's Magic Aura               |Illusion     |24 hours               |0    
+0|0|1|0|1|0|0|0|2|1|1|1|1|1 action       |Self                           |Pass without Trace                |Abjuration   |Up to 1 hour           |0    
+1|0|0|0|0|1|0|1|2|1|1|1|1|1 action       |60 feet                        |Phantasmal Force                  |Illusion     |Up to 1 minute         |0    
+0|1|0|0|0|0|0|0|2|1|0|0|0|10 minutes     |30 feet                        |Prayer of Healing                 |Evocation    |Instantaneous          |0    
+0|1|1|1|1|0|0|0|2|1|1|0|0|1 action       |Touch                          |Protection from Poison            |Abjuration   |1 hour                 |0    
+1|0|0|0|0|1|0|1|2|1|1|0|0|1 action       |60 feet                        |Pyrotechnics                      |Transmutation|Instantaneous          |0    
+0|0|0|0|0|0|1|1|2|1|1|0|1|1 action       |60 feet                        |Ray of Enfeeblement               |Necromancy   |Up to 1 minute         |0    
+0|0|0|0|0|0|0|1|2|1|1|1|0|1 action       |Touch                          |Rope Trick                        |Transmutation|1 hour                 |0    
+0|0|0|0|0|1|0|1|2|1|1|0|0|1 action       |120 feet                       |Scorching Ray                     |Evocation    |Instantaneous          |0    
+1|0|0|0|0|1|0|1|2|1|1|1|0|1 action       |Self                           |See Invisibility                  |Divination   |1 hour                 |0    
+1|0|0|0|0|1|1|1|2|1|1|1|0|1 action       |60 feet                        |Shatter                           |Evocation    |Instantaneous          |0    
+1|1|0|0|1|0|0|0|2|1|1|0|1|1 action       |120 feet                       |Silence                           |Illusion     |Up to 10 minutes       |0    
+1|0|1|0|0|0|0|1|2|1|1|0|1|1 action       |Sight                          |Skywrite                          |Transmutation|Up to 1 hour           |0    
+0|0|0|0|0|1|0|1|2|1|1|1|0|1 action       |90 feet                        |Snilloc's Snowball Swarm          |Evocation    |Instantaneous          |0    
+0|0|0|0|0|1|1|1|2|1|1|1|1|1 action       |Touch                          |Spider Climb                      |Transmutation|Up to 1 hour           |0    
+0|0|1|0|1|0|0|0|2|1|1|1|1|1 action       |150 feet                       |Spike Growth                      |Transmutation|Up to 10 minutes       |0    
+0|1|0|0|0|0|0|0|2|1|1|0|0|1 bonus action |60 feet                        |Spiritual Weapon                  |Evocation    |1 minute               |0    
+1|0|0|0|0|1|1|1|2|1|0|1|1|1 action       |30 feet                        |Suggestion                        |Enchantment  |Up to 8 hours          |0    
+0|1|0|0|0|0|0|0|2|1|1|1|0|1 action       |Touch                          |Warding Bond                      |Abjuration   |1 hour                 |50   
+1|0|1|0|0|1|0|0|2|1|0|0|1|1 action       |Self                           |Warding Wind                      |Evocation    |Up to 10 minutes       |0    
+0|0|0|0|0|1|0|1|2|1|1|1|1|1 action       |60 feet                        |Web                               |Conjuration  |Up to 1 hour           |0    
+1|1|0|1|0|0|0|0|2|1|1|0|0|1 action       |60 feet                        |Zone of Truth                     |Enchantment  |10 minutes             |0    
+0|1|0|0|0|0|0|1|3|1|1|1|0|1 minute       |10 feet                        |Animate Dead                      |Necromancy   |Instantaneous          |0    
+0|0|0|1|0|0|0|0|3|1|0|0|1|1 action       |Self (30-foot radius)          |Aura of Vitality                  |Evocation    |Up to 1 minute         |0    
+0|1|0|0|0|0|0|0|3|1|1|0|1|1 action       |30 feet                        |Beacon of Hope                    |Abjuration   |Up to 1 minute         |0    
+1|1|0|0|0|0|0|1|3|1|1|0|1|1 action       |Touch                          |Bestow Curse                      |Necromancy   |Up to 1 minute         |0    
+0|0|0|1|0|0|0|0|3|1|0|0|1|1 bonus action |Self                           |Blinding Smite                    |Evocation    |Up to 1 minute         |0    
+0|0|0|0|0|1|0|1|3|1|1|0|0|1 action       |Self                           |Blink                             |Transmutation|1 minute               |0    
+0|0|1|0|0|0|0|0|3|1|1|0|1|1 action       |120 feet                       |Call Lightning                    |Conjuration  |Up to 10 minutes       |0    
+1|1|0|0|0|1|0|1|3|1|1|1|1|10 minutes     |1 mile                         |Clairvoyance                      |Divination   |Up to 10 minutes       |100  
+0|0|1|0|1|0|0|0|3|1|1|0|1|1 action       |60 feet                        |Conjure Animals                   |Conjuration  |Up to 1 hour           |0    
+0|0|0|0|1|0|0|0|3|1|1|1|0|1 action       |Self (60-foot cone)            |Conjure Barrage                   |Conjuration  |Instantaneous          |0    
+0|0|0|0|0|1|0|1|3|1|1|1|1|1 action       |60 feet                        |Conjure Lesser Demon              |Conjuration  |Up to 1 hour           |0    
+0|0|0|0|0|1|1|1|3|0|1|0|0|1 reaction     |60 feet                        |Counterspell                      |Abjuration   |Instantaneous          |0    
+0|1|0|1|0|0|0|0|3|1|1|0|0|1 action       |30 feet                        |Create Food and Water             |Conjuration  |Instantaneous          |0    
+0|0|0|1|0|0|0|0|3|1|0|0|1|1 action       |Self                           |Crusader's Mantle                 |Evocation    |Up to 1 minute         |0    
+0|1|1|1|1|1|0|0|3|1|1|0|0|1 action       |60 feet                        |Daylight                          |Evocation    |1 hour                 |0    
+1|1|1|1|0|1|1|1|3|1|1|0|0|1 action       |120 feet                       |Dispel Magic                      |Abjuration   |Instantaneous          |0    
+0|0|0|1|0|0|0|0|3|1|1|0|1|1 action       |Touch                          |Elemental Weapon                  |Transmutation|Up to 1 hour           |0    
+0|0|1|0|0|1|0|1|3|1|1|1|0|1 action       |120 feet                       |Erupting Earth                    |Transmutation|Instantaneous          |0    
+1|0|0|0|0|1|1|1|3|1|1|1|1|1 action       |Self (30-foot cone)            |Fear                              |Illusion     |Up to 1 minute         |0    
+1|1|1|0|0|0|0|1|3|1|1|1|0|1 action       |Touch                          |Feign Death                       |Necromancy   |1 hour                 |0    
+0|0|0|0|0|1|0|1|3|1|1|1|0|1 action       |150 feet                       |Fireball                          |Evocation    |Instantaneous          |0    
+0|0|1|0|1|1|0|1|3|1|1|0|1|1 action       |Touch                          |Flame Arrows                      |Transmutation|Up to 1 hour           |0    
+0|0|0|0|0|1|1|1|3|1|1|1|1|1 action       |Touch                          |Fly                               |Transmutation|Up to 10 minutes       |0    
+0|0|0|0|0|1|1|1|3|1|1|1|1|1 action       |Touch                          |Gaseous Form                      |Transmutation|Up to 1 hour           |0    
+1|1|0|0|0|0|0|1|3|1|1|1|0|1 hour         |Touch                          |Glyph of Warding                  |Abjuration   |Until dispelled or trig|200
+0|0|0|0|0|1|0|1|3|1|1|1|1|1 action       |30 feet                        |Haste                             |Transmutation|Up to 1 minute         |0    
+0|0|0|0|0|0|0|0|3|1|1|0|1|1 action       |90 feet                        |Haywire                           |Enchantment  |Up to 1 minute         |0    
+0|0|0|0|0|0|1|0|3|1|1|1|1|1 action       |150 feet                       |Hunger of Hadar                   |Conjuration  |Up to 1 minute         |0    
+1|0|0|0|0|1|1|1|3|0|1|1|1|1 action       |120 feet                       |Hypnotic Pattern                  |Illusion     |Up to 1 minute         |0    
+0|0|0|0|0|0|0|0|3|1|1|1|1|1 action       |10 feet                        |Invisible to Cameras              |Illusion     |Up to 1 minute         |0    
+1|0|0|0|0|0|0|1|3|1|1|1|0|1 minute       |Self 10-foot radius hemisphere)|Leomund's Tiny Hut                |Evocation    |8 hours                |0    
+0|0|0|0|1|0|0|0|3|1|1|0|1|1 bonus action |Self                           |Lightning Arrow                   |Transmutation|Up to 1 minute         |0    
+0|0|0|0|0|1|0|1|3|1|1|1|0|1 action       |Self (100-foot line)           |Lightning Bolt                    |Evocation    |Instantaneous          |0    
+0|1|0|1|0|0|1|1|3|1|1|1|0|1 minute       |10 feet                        |Magic Circle                      |Abjuration   |1 hour                 |100  
+1|0|0|0|0|1|1|1|3|1|1|1|1|1 action       |120 feet                       |Major Image                       |Illusion     |Up to 10 minutes       |0    
+0|1|0|0|0|0|0|0|3|1|0|0|0|1 bonus action |60 feet                        |Mass Healing Word                 |Evocation    |Instantaneous          |0    
+0|1|1|0|0|0|0|0|3|1|1|0|0|1 action       |Touch                          |Meld into Stone                   |Transmutation|8 hours                |0    
+0|0|0|0|0|1|0|1|3|1|1|1|1|1 action       |Self                           |Melf's Minute Meteors             |Evocation    |Up to 10 minutes       |0    
+1|0|0|0|1|0|0|1|3|1|1|1|0|1 action       |Touch                          |Nondetection                      |Abjuration   |8 hours                |25   
+0|0|0|0|0|0|0|1|3|1|1|0|0|1 minute       |30 feet                        |Phantom Steed                     |Illusion     |1 hour                 |0    
+1|0|1|0|1|0|0|0|3|1|1|0|0|1 action / 8 h |150 feet                       |Plant Growth                      |Transmutation|Instantaneous          |0    
+0|0|0|0|0|0|0|0|3|1|1|1|1|1 action       |Touch                          |Protection from Ballistics        |Abjuration   |Up to 10 minutes       |0    
+0|1|1|0|1|1|0|1|3|1|1|0|1|1 action       |Touch                          |Protection from Energy            |Abjuration   |Up to 1 hour           |0    
+0|1|0|1|0|0|1|1|3|1|1|0|0|1 action       |Touch                          |Remove Curse                      |Abjuration   |Instantaneous          |0    
+0|1|0|1|0|0|0|0|3|1|1|1|0|1 action       |Touch                          |Revivify                          |Conjuration  |Instantaneous          |300  
+1|1|0|0|0|0|0|1|3|1|1|1|0|1 action       |Unlimited                      |Sending                           |Evocation    |1 round                |0    
+0|0|1|0|0|1|0|1|3|1|1|1|1|1 action       |150 feet                       |Sleet Storm                       |Conjuration  |Up to 1 minute         |0    
+0|0|0|0|0|1|0|1|3|1|1|1|1|1 action       |120 feet                       |Slow                              |Transmutation|Up to 1 minute         |0    
+1|1|1|0|0|0|0|0|3|1|1|1|0|1 action       |10 feet                        |Speak with Dead                   |Necromancy   |10 minutes             |0    
+1|0|0|0|1|0|0|0|3|1|1|0|0|1 action       |Self (30-foot radius)          |Speak with Plants                 |Transmutation|10 minutes             |0    
+0|1|0|0|0|0|0|0|3|1|1|1|1|1 action       |Self (15-foot radius)          |Spirit Guardians                  |Conjuration  |Up to 10 minutes       |0    
+1|0|0|0|0|1|0|1|3|1|1|1|1|1 action       |90 feet                        |Stinking Cloud                    |Conjuration  |Up to 1 minute         |0    
+0|0|1|0|0|0|0|1|3|1|1|1|0|1 action       |120 feet                       |Tidal Wave                        |Conjuration  |Instantaneous          |0    
+1|1|0|0|0|1|1|1|3|1|0|1|0|1 action       |Touch                          |Tongues                           |Divination   |1 hour                 |0    
+0|0|0|0|0|0|1|1|3|1|1|0|1|1 action       |Self                           |Vampiric Touch                    |Necromancy   |Up to 1 minute         |0    
+0|0|0|0|0|0|0|1|3|1|1|1|1|1 action       |90 feet                        |Wall of Sand                      |Evocation    |Up to 10 minutes       |0    
+0|0|1|0|0|1|0|1|3|1|1|1|1|1 action       |60 feet                        |Wall of Water                     |Evocation    |Up to 10 minutes       |0    
+0|0|1|0|1|1|0|1|3|1|1|1|0|1 action       |30 feet                        |Water Breathing                   |Transmutation|24 hours               |0    
+0|1|1|0|1|1|0|0|3|1|1|1|0|1 action       |30 feet                        |Water Walk                        |Transmutation|1 hour                 |0    
+0|0|1|0|1|0|0|0|3|1|1|1|1|1 action       |120 feet                       |Wind Wall                         |Evocation    |Up to 1 minute         |0    
+0|0|0|0|0|0|0|1|4|1|1|1|1|1 action       |30 feet                        |Arcane Eye                        |Divination   |Up to 1 hour           |0    
+0|0|0|1|0|0|0|0|4|1|0|0|1|1 action       |Self (30-foot radius)          |Aura of Life                      |Abjuration   |Up to 10 minutes       |0    
+0|0|0|1|0|0|0|0|4|1|0|0|1|1 action       |Self (30-foot radius)          |Aura of Purity                    |Abjuration   |Up to 10 minutes       |0    
+0|1|0|1|0|1|1|1|4|1|1|1|1|1 action       |60 feet                        |Banishment                        |Abjuration   |Up to 1 minute         |0    
+0|0|1|0|0|1|1|1|4|1|1|0|0|1 action       |30 feet                        |Blight                            |Necromancy   |Instantaneous          |0    
+1|0|0|0|0|0|0|0|4|1|1|0|1|1 action       |30 feet                        |Compulsion                        |Enchantment  |Up to 1 minute         |0    
+1|0|1|0|0|1|0|1|4|1|1|1|1|1 action       |90 feet                        |Confusion                         |Enchantment  |Up to 1 minute         |0    
+0|0|0|0|0|1|0|1|4|1|1|0|0|1 action       |60 feet                        |Conjure Barlgura                  |Conjuration  |Up to 10 minutes       |0    
+0|0|0|0|0|0|0|0|4|1|1|0|0|1 action       |Touch                          |Conjure Knowbot                   |Conjuration  |10 minutes             |0    
+0|0|1|0|0|0|0|1|4|1|1|0|1|1 minute       |90 feet                        |Conjure Minor Elementals          |Conjuration  |Up to 1 hour           |0    
+0|0|0|0|0|1|0|1|4|1|1|1|1|1 action       |60 feet                        |Conjure Shadow Damon              |Conjuration  |Up to 1 hour           |0    
+0|0|1|0|1|0|0|0|4|1|1|1|1|1 action       |60 feet                        |Conjure Woodland Beings           |Conjuration  |Up to 1 hour           |0    
+0|1|1|0|0|0|0|1|4|1|1|1|1|1 action       |300 feet                       |Control Water                     |Transmutation|Up to 10 minutes       |0    
+0|1|0|1|0|0|0|0|4|1|1|0|0|1 action       |Touch                          |Death Ward                        |Abjuration   |8 hours                |0    
+1|0|0|0|0|1|1|1|4|1|0|0|0|1 action       |500 feet                       |Dimension Door                    |Conjuration  |Instantaneous          |0    
+0|1|0|0|0|0|0|0|4|1|1|1|0|1 action       |Self                           |Divination                        |Divination   |Instantaneous          |25   
+0|0|1|0|0|1|0|0|4|1|1|0|1|1 action       |60 feet                        |Dominate Beast                    |Enchantment  |Up to 1 minute         |0    
+0|0|1|0|0|0|1|1|4|1|1|0|1|1 action       |90 feet                        |Elemental Bane                    |Transmutation|Up to 1 minute         |0    
+0|0|0|0|0|0|0|1|4|1|1|1|1|1 action       |90 feet                        |Evard's Black Tentacles           |Conjuration  |Up to 1 minute         |0    
+0|0|0|0|0|0|0|1|4|1|1|0|0|10 minutes     |120 feet                       |Fabricate                         |Transmutation|Instantaneous          |0    
+0|0|0|0|0|0|0|1|4|1|1|1|0|1 action       |Self                           |Fire Shield                       |Evocation    |10 minutes             |0    
+1|1|1|0|1|0|0|0|4|1|1|1|0|1 action       |Touch                          |Freedom of Movement               |Abjuration   |1 hour                 |0    
+0|0|1|0|0|0|0|0|4|1|1|0|1|1 action       |30 feet                        |Giant Insect                      |Transmutation|Up to 10 minutes       |0    
+0|0|1|0|1|0|0|0|4|1|1|0|1|1 bonus action |30 feet                        |Grasping Vine                     |Conjuration  |Up to 1 minute         |0    
+1|0|0|0|0|1|0|1|4|1|1|0|1|1 action       |Touch                          |Greater Invisibility              |Illusion     |Up to 1 minute         |0    
+0|1|0|0|0|0|0|0|4|1|0|0|0|1 action       |30 feet                        |Guardian of Faith                 |Conjuration  |8 hours                |0    
+1|0|1|0|0|0|1|1|4|1|1|1|0|10 minutes     |300 feet                       |Hallucinatory Terrain             |Illusion     |24 hours               |0    
+0|0|1|0|0|1|0|1|4|1|1|1|0|1 action       |300 feet                       |Ice Storm                         |Evocation    |Instantaneous          |0    
+0|0|0|0|0|0|0|1|4|1|1|1|0|1 action       |Touch                          |Leomund's Secret Chest            |Conjuration  |Instantaneous          |5050 
+1|1|1|1|1|0|0|1|4|1|1|1|1|1 action       |Self                           |Locate Creature                   |Divination   |Up to 1 hour           |0    
+0|0|0|0|0|0|0|1|4|1|1|1|0|1 action       |30 feet                        |Mordenkainen's Faithful Hound     |Conjuration  |8 hours                |0    
+0|0|0|0|0|0|0|1|4|1|1|1|0|10 minutes     |120 feet                       |Mordenkainen's Private Sanctum    |Abjuration   |24 hours               |0    
+0|0|0|0|0|0|0|1|4|1|1|1|1|1 action       |30 feet                        |Otiluke's Resilient Sphere        |Evocation    |Up to 1 minute         |0    
+0|0|0|0|0|0|0|1|4|1|1|0|1|1 action       |120 feet                       |Phantasmal Killer                 |Illusion     |Up to 1 minute         |0    
+1|0|1|0|0|1|0|1|4|1|1|1|1|1 action       |60 feet                        |Polymorph                         |Transmutation|Up to 1 hour           |0    
+0|0|0|1|0|0|0|0|4|1|0|0|1|1 bonus action |Self                           |Staggering Smite                  |Evocation    |Up to 1 minute         |0    
+0|1|1|0|0|0|0|1|4|1|1|1|0|1 action       |Touch                          |Stone Shape                       |Transmutation|Instantaneous          |0    
+0|0|1|0|1|1|0|1|4|1|1|1|1|1 action       |Touch                          |Stoneskin                         |Abjuration   |Up to 1 hour           |100  
+0|0|0|0|0|1|0|1|4|1|1|0|1|1 action       |150 feet                       |Storm Sphere                      |Evocation    |Up to 1 minute         |0    
+0|0|0|0|0|0|0|0|4|1|1|0|1|1 action       |Touch                          |Synchronicity                     |Enchantment  |Up to 1 hour           |0    
+0|0|0|0|0|0|0|0|4|1|1|1|1|1 minute       |Self                           |System Backdoor                   |Transmutation|Up to 1 hour           |0    
+0|0|0|0|0|1|0|1|4|1|1|1|0|1 action       |150 feet                       |Vitriolic Sphere                  |Evocation    |Instantaneous          |0    
+0|0|1|0|0|1|0|1|4|1|1|1|1|1 action       |120 feet                       |Wall of Fire                      |Evocation    |Up to 1 minute         |0    
+0|0|1|0|0|1|0|1|4|1|1|1|1|1 action       |90 feet                        |Watery Sphere                     |Conjuration  |Up to 1 minute         |0    
+1|0|0|0|0|1|0|1|5|1|1|0|1|1 action       |120 feet                       |Animate Objects                   |Transmutation|Up to 1 minute         |0    
+0|0|1|0|0|0|0|0|5|1|1|0|1|1 action       |Self (10-foot radius sphere)   |Antilife Shell                    |Abjuration   |Up to 1 hour           |0    
+1|0|1|0|0|0|0|0|5|1|1|1|0|8 hours        |Touch                          |Awaken                            |Transmutation|Instantaneous          |1000 
+0|0|0|1|0|0|0|0|5|1|0|0|1|1 bonus action |Self                           |Banishing Smite                   |Abjuration   |Up to 1 minute         |0    
+0|0|0|0|0|0|0|1|5|1|1|1|1|1 action       |120 feet                       |Bigby's Hand                      |Evocation    |Up to 1 minute         |0    
+0|0|0|1|0|0|0|0|5|1|0|0|1|1 action       |Self (30-foot radius)          |Circle of Power                   |Abjuration   |Up to 10 minutes       |0    
+0|0|0|0|0|1|0|1|5|1|1|0|1|1 action       |120 feet                       |Cloudkill                         |Conjuration  |Up to 10 minutes       |0    
+0|1|0|0|0|0|0|0|5|1|1|1|0|1 minute       |Self                           |Commune                           |Divination   |1 minute               |0    
+0|0|1|0|1|0|0|0|5|1|1|0|0|1 minute       |Self                           |Commune with Nature               |Divination   |Instantaneous          |0    
+0|0|0|0|0|0|0|0|5|1|1|0|0|1 minute       |Self                           |Commune with the City             |Divination   |Instantaneous          |0    
+0|0|0|0|0|1|0|1|5|1|1|1|0|1 action       |Self (60-foot cone)            |Cone of Cold                      |Evocation    |Instantaneous          |0    
+0|0|1|0|0|0|0|1|5|1|1|1|1|1 minute       |90 feet                        |Conjure Elemental                 |Conjuration  |Up to 1 hour           |0    
+0|0|0|0|1|0|0|0|5|1|1|1|0|1 action       |150 feet                       |Conjure Volley                    |Conjuration  |Instantaneous          |0    
+0|0|0|0|0|1|0|1|5|1|1|1|1|1 action       |60 feet                        |Conjure Vrock                     |Conjuration  |Up to 1 hour           |100  
+0|0|0|0|0|0|1|1|5|1|0|0|0|1 minute       |Self                           |Contact Other Plane               |Divination   |1 minute               |0    
+0|1|1|0|0|0|0|0|5|1|1|0|0|1 action       |Touch                          |Contagion                         |Necromancy   |7 days                 |0    
+0|0|1|0|0|1|0|1|5|1|1|0|1|1 action       |300 feet                       |Control Winds                     |Transmutation|Up to 1 hour           |0    
+0|0|0|0|0|1|0|1|5|1|1|1|0|1 minute       |30 feet                        |Creation                          |Illusion     |Special                |0    
+0|0|0|1|0|0|0|0|5|1|0|0|0|1 action       |Self (30-foot radius)          |Destructive Wave                  |Evocation    |Instantaneous          |0    
+0|1|0|1|0|0|0|0|5|1|1|1|1|1 action       |Self                           |Dispel Evil and Good              |Abjuration   |Up to 1 minute         |0    
+1|0|0|0|0|1|0|1|5|1|1|0|1|1 action       |60 feet                        |Dominate Person                   |Enchantment  |Up to 1 minute         |0    
+1|0|0|0|0|0|1|1|5|1|1|1|0|1 minute       |Special                        |Dream                             |Illusion     |8 hours                |0    
+0|1|0|0|0|0|0|0|5|1|1|1|0|1 action       |60 feet                        |Flame Strike                      |Evocation    |Instantaneous          |0    
+1|1|1|1|0|0|0|1|5|1|0|0|0|1 minute       |60 feet                        |Geas                              |Enchantment  |30 days                |0    
+1|1|1|0|0|0|0|0|5|1|1|1|0|1 action       |Touch                          |Greater Restoration               |Abjuration   |Instantaneous          |100  
+0|1|0|0|0|0|0|0|5|1|1|1|0|24 hours       |Touch                          |Hallow                            |Evocation    |Until dispelled        |1000 
+1|0|0|0|0|1|1|1|5|1|1|1|1|1 action       |90 feet                        |Hold Monster                      |Enchantment  |Up to 1 minute         |0    
+0|0|0|0|0|1|0|1|5|1|0|0|1|1 action       |90 feet                        |Immolation                        |Evocation    |Up to 1 minute         |0    
+0|1|1|0|0|1|0|0|5|1|1|1|1|1 action       |300 feet                       |Insect Plague                     |Conjuration  |Up to 10 minutes       |0    
+1|1|0|0|0|0|0|1|5|1|1|1|0|10 minutes     |Self                           |Legend Lore                       |Divination   |Instantaneous          |450  
+0|0|1|0|0|0|0|0|5|1|1|1|1|1 action       |120 feet                       |Maelstrom                         |Evocation    |Up to 1 minute         |0    
+1|1|1|0|0|0|0|0|5|1|1|0|0|1 action       |60 feet                        |Mass Cure Wounds                  |Conjuration  |Instantaneous          |0    
+1|0|0|0|0|0|0|1|5|0|1|0|1|1 action       |Self                           |Mislead                           |Illusion     |Up to 1 hour           |0    
+1|0|0|0|0|0|0|1|5|1|1|0|1|1 action       |30 feet                        |Modify Memory                     |Enchantment  |Up to 1 minute         |0    
+0|0|0|0|0|0|0|1|5|1|1|1|0|1 action       |30 feet                        |Passwall                          |Transmutation|1 hour                 |0    
+1|1|1|0|0|0|0|1|5|1|1|1|0|1 hour         |60 feet                        |Planar Binding                    |Abjuration   |24 hours               |1000 
+1|1|0|1|0|0|0|0|5|1|1|1|0|1 hour         |Touch                          |Raise Dead                        |Necromancy   |Instantaneous          |500  
+0|0|0|0|0|0|0|1|5|1|1|1|0|1 action       |30 feet                        |Rary's Telepathic Bond            |Divination   |1 hour                 |0    
+0|0|1|0|0|0|0|0|5|1|1|1|0|1 hour         |Touch                          |Reincarnate                       |Transmutation|Instantaneous          |1000 
+1|1|1|0|0|0|1|1|5|1|1|1|1|10 minutes     |Self                           |Scrying                           |Divination   |Up to 10 minutes       |1000 
+1|0|0|0|0|1|0|1|5|1|1|0|0|1 action       |30 feet                        |Seeming                           |Illusion     |8 hours                |0    
+0|0|0|0|0|0|0|0|5|1|1|0|1|1 action       |120 feet                       |Shutdown                          |Transmutation|Up to 1 minute         |0    
+0|0|0|0|1|0|0|0|5|1|1|1|1|1 bonus action |Touch                          |Swift Quiver                      |Transmutation|Up to 1 minute         |0    
+0|0|0|0|0|1|0|1|5|1|1|0|1|1 action       |60 feet                        |Telekinesis                       |Transmutation|Up to 10 minutes       |0    
+1|0|0|0|0|1|0|1|5|1|0|1|0|1 minute       |10 feet                        |Teleportation Circle              |Conjuration  |1 round                |50   
+0|0|1|0|0|0|0|1|5|1|1|1|0|1 action       |120 feet                       |Transmute Rock                    |Transmutation|Instantaneous          |0    
+0|0|1|0|1|0|0|0|5|1|1|0|1|1 action       |Self                           |Tree Stride                       |Conjuration  |Up to 1 minute         |0    
+0|0|0|0|0|0|0|1|5|1|1|1|1|1 action       |120 feet                       |Wall of Force                     |Evocation    |Up to 10 minutes       |0    
+0|0|1|0|0|1|0|1|5|1|1|1|1|1 action       |120 feet                       |Wall of Stone                     |Evocation    |Up to 10 minutes       |0    
+0|0|0|0|0|1|1|1|6|1|1|0|1|1 action       |500 feet                       |Arcane Gate                       |Conjuration  |Up to 10 minutes       |0    
+0|1|0|0|0|0|0|0|6|1|1|0|1|1 action       |90 feet                        |Blade Barrier                     |Evocation    |Up to 10 minutes       |0    
+0|0|1|0|0|0|0|0|6|1|1|0|0|1 action       |120 feet                       |Bones of the Earth                |Transmutation|Instantaneous          |0    
+0|0|0|0|0|1|0|1|6|1|1|1|0|1 action       |150 feet                       |Chain Lightning                   |Evocation    |Instantaneous          |0    
+0|0|0|0|0|1|1|1|6|1|1|1|0|1 action       |150 feet                       |Circle of Death                   |Necromancy   |Instantaneous          |500  
+0|0|1|0|0|0|1|0|6|1|1|0|1|1 minute       |90 feet                        |Conjure Fey                       |Conjuration  |Up to 1 hour           |0    
+0|0|0|0|0|0|0|1|6|1|1|1|0|10 minutes     |Self                           |Contingency                       |Evocation    |10 days                |1500 
+0|1|0|0|0|0|1|1|6|1|1|1|0|1 minute       |10 feet                        |Create Undead                     |Necromancy   |Instantaneous          |150  
+0|0|0|0|0|1|0|1|6|1|1|1|0|1 action       |60 feet                        |Disintegrate                      |Transmutation|Instantaneous          |0    
+0|0|0|0|0|0|0|1|6|1|1|1|0|1 minute       |Touch                          |Drawmij's Instant Summons         |Conjuration  |Until dispelled        |1000 
+1|0|0|0|0|1|1|1|6|1|1|0|1|1 action       |Self                           |Eyebite                           |Necromancy   |Up to 1 minute         |0    
+1|1|1|0|0|0|0|0|6|1|1|1|1|1 minute       |Self                           |Find the Path                     |Divination   |Up to 1 day            |100  
+0|0|0|0|0|0|1|1|6|1|1|1|1|1 action       |60 feet                        |Flesh to Stone                    |Transmutation|Up to 1 minute         |0    
+0|1|0|0|0|0|0|0|6|1|1|1|0|10 minutes     |Touch                          |Forbiddance                       |Abjuration   |1 day                  |1000 
+0|0|0|0|0|1|0|1|6|1|1|1|1|1 action       |Self (10-foot radius)          |Globe of Invulnerability          |Abjuration   |Up to 1 minute         |0    
+1|0|0|0|0|0|0|1|6|1|1|1|0|10 minutes     |Touch                          |Guards and Wards                  |Abjuration   |24 hours               |10   
+0|1|0|0|0|0|0|0|6|1|1|0|0|1 action       |60 feet                        |Harm                              |Necromancy   |Instantaneous          |0    
+0|1|1|0|0|0|0|0|6|1|1|0|0|1 action       |60 feet                        |Heal                              |Evocation    |Instantaneous          |0    
+0|1|1|0|0|0|0|0|6|1|1|1|0|10 minutes     |30 feet                        |Heroes' Feast                     |Conjuration  |Instantaneous          |1000 
+0|0|1|0|0|1|1|1|6|1|1|0|1|1 action       |Self                           |Investiture of Flame              |Transmutation|Up to 10 minutes       |0    
+0|0|1|0|0|1|1|1|6|1|1|0|1|1 action       |Self                           |Investiture of Ice                |Transmutation|Up to 10 minutes       |0    
+0|0|1|0|0|1|1|1|6|1|1|0|1|1 action       |Self                           |Investiture of Stone              |Transmutation|Up to 10 minutes       |0    
+0|0|1|0|0|1|1|1|6|1|1|0|1|1 action       |Self                           |Investiture of Wind               |Transmutation|Up to 10 minutes       |0    
+0|0|0|0|0|0|0|1|6|1|1|1|0|1 minute       |Self                           |Magic Jar                         |Necromancy   |Until dispelled        |500  
+1|0|0|0|0|1|1|1|6|1|0|1|0|1 action       |60 feet                        |Mass Suggestion                   |Enchantment  |24 hours               |0    
+0|0|1|0|0|1|0|1|6|1|1|1|1|1 action       |120 feet                       |Move Earth                        |Transmutation|Up to 2 hours          |0    
+0|0|0|0|0|0|0|1|6|1|1|1|0|1 action       |300 feet                       |Otiluke's Freezing Sphere         |Evocation    |Instantaneous          |0    
+1|0|0|0|0|0|0|1|6|1|0|0|1|1 action       |30 feet                        |Otto's Irresistible Dance         |Enchantment  |Up to 1 minute         |0    
+0|1|0|0|0|0|0|0|6|1|1|0|0|10 minutes     |60 feet                        |Planar Ally                       |Conjuration  |Instantaneous          |0    
+0|0|1|0|0|0|0|0|6|1|1|0|1|1 action       |Self                           |Primordial Ward                   |Abjuration   |Up to 1 minute         |0    
+1|0|0|0|0|0|0|1|6|1|1|1|0|1 action       |120 feet                       |Programmed Illusion               |Illusion     |Until dispelled        |25   
+0|0|1|0|0|1|0|1|6|1|1|1|1|1 action       |Self (60-foot line)            |Sunbeam                           |Evocation    |Up to 1 minute         |0    
+0|0|1|0|0|0|0|0|6|1|1|0|0|1 action       |10 feet                        |Transport via Plants              |Conjuration  |1 round                |0    
+1|1|0|0|0|1|1|1|6|1|1|1|0|1 action       |Touch                          |True Seeing                       |Divination   |1 hour                 |25   
+0|0|0|0|0|0|0|1|6|1|1|1|1|1 action       |120 feet                       |Wall of Ice                       |Evocation    |Up to 10 minutes       |0    
+0|0|1|0|0|0|0|0|6|1|1|1|1|1 action       |120 feet                       |Wall of Thorns                    |Conjuration  |Up to 10 minutes       |0    
+0|0|1|0|0|0|0|0|6|1|1|1|0|1 minute       |30 feet                        |Wind Walk                         |Transmutation|8 hours                |0    
+0|1|0|0|0|0|0|0|6|1|0|0|0|1 action       |5 feet                         |Word of Recall                    |Conjuration  |Instantaneous          |0    
+0|1|0|0|0|0|0|0|7|1|1|0|1|1 minute       |90 feet                        |Conjure Celestial                 |Conjuration  |Up to 1 hour           |0    
+0|0|0|0|0|1|0|1|7|1|1|1|1|1 action       |60 feet                        |Conjure Hezrou                    |Conjuration  |Up to 1 hour           |100  
+0|0|0|0|0|1|0|1|7|1|1|1|1|1 action       |150 feet                       |Delayed Blast Fireball            |Evocation    |Up to 1 minute         |0    
+0|1|0|0|0|0|0|0|7|1|0|0|0|1 bonus action |30 feet                        |Divine Word                       |Evocation    |Instantaneous          |0    
+1|1|0|0|0|1|1|1|7|1|1|0|0|1 action       |Self                           |Etherealness                      |Transmutation|Up to 8 hours          |0    
+0|0|0|0|0|1|1|1|7|1|1|0|0|1 action       |60 feet                        |Finger of Death                   |Necromancy   |Instantaneous          |0    
+0|1|1|0|0|1|0|0|7|1|1|0|0|1 action       |150 feet                       |Fire Storm                        |Evocation    |Instantaneous          |0    
+1|0|0|0|0|0|1|1|7|1|1|1|0|1 action       |100 feet                       |Forcecage                         |Evocation    |1 hour                 |1500 
+1|0|1|0|0|0|0|1|7|1|1|0|0|10 minutes     |Sight                          |Mirage Arcane                     |Illusion     |10 days                |0    
+1|0|0|0|0|0|0|1|7|1|1|1|0|1 minute       |300 feet                       |Mordenkainen's Magnificent Mansion|Conjuration  |24 hours               |15   
+1|0|0|0|0|0|0|1|7|1|1|1|1|1 action       |60 feet                        |Mordenkainen's Sword              |Evocation    |Up to 1 minute         |250  
+0|1|1|0|0|1|1|1|7|1|1|1|0|1 action       |Touch                          |Plane Shift                       |Conjuration  |Instantaneous          |250  
+0|0|0|0|0|1|0|1|7|1|1|0|0|1 action       |Self (60-foot cone)            |Prismatic Spray                   |Evocation    |Instantaneous          |0    
+1|0|0|0|0|0|0|1|7|1|1|1|1|1 action       |500 miles                      |Project Image                     |Illusion     |Up to 1 day            |5    
+1|1|1|0|0|0|0|0|7|1|1|1|0|1 minute       |Touch                          |Regenerate                        |Transmutation|1 hour                 |0    
+1|1|0|0|0|0|0|0|7|1|1|1|0|1 hour         |Touch                          |Resurrection                      |Necromancy   |Instantaneous          |1000 
+0|0|1|0|0|1|0|1|7|1|1|1|1|1 action       |100 feet                       |Reverse Gravity                   |Transmutation|Up to 1 minute         |0    
+0|0|0|0|0|0|0|1|7|1|1|1|0|1 action       |Touch                          |Sequester                         |Evocation    |Until dispelled        |5000 
+0|0|0|0|0|0|0|1|7|1|1|1|0|12 hours       |Touch                          |Simulacrum                        |Illusion     |Until dispelled        |1500 
+1|1|0|0|0|0|0|1|7|1|1|1|0|1 minute       |Touch                          |Symbol                            |Abjuration   |Until dispelled or trig|1000
+1|0|0|0|0|1|0|1|7|1|0|0|0|1 action       |10 feet                        |Teleport                          |Conjuration  |Instantaneous          |0    
+0|0|1|0|0|0|0|1|7|1|0|1|1|1 action       |300 feet                       |Whirlwind                         |Evocation    |Up to 1 minute         |0    
+0|0|0|0|0|1|0|1|8|1|1|1|0|1 action       |150 feet                       |Abi-Dalzim's Horrid Wilting       |Necromancy   |Instantaneous          |0    
+0|0|1|0|0|0|0|0|8|1|1|0|1|1 action       |30 feet                        |Animal Shapes                     |Transmutation|Up to 24 hours         |0    
+0|1|0|0|0|0|0|1|8|1|1|1|1|1 action       |Self (10-foot radius sphere)   |Antimagic Field                   |Abjuration   |Up to 1 hour           |0    
+0|0|1|0|0|0|0|1|8|1|1|1|0|1 hour         |60 feet                        |Antipathy/Sympathy                |Enchantment  |10 days                |0    
+0|0|0|0|0|0|0|1|8|1|1|1|0|1 hour         |Touch                          |Clone                             |Necromancy   |Instantaneous          |3000 
+0|1|1|0|0|0|0|1|8|1|1|1|1|10 minutes     |Self (5-mile radius)           |Control Weather                   |Transmutation|Up to 8 hours          |0    
+0|0|0|0|0|0|1|1|8|0|1|0|0|1 action       |60 feet                        |Demiplane                         |Conjuration  |1 hour                 |0    
+1|0|0|0|0|1|1|1|8|1|1|0|1|1 action       |60 feet                        |Dominate Monster                  |Enchantment  |Up to 1 hour           |0    
+0|1|1|0|0|1|0|0|8|1|1|1|1|1 action       |500 feet                       |Earthquake                        |Evocation    |Up to 1 minute         |0    
+1|0|1|0|0|0|1|1|8|1|1|1|0|1 action       |150 feet                       |Feeblemind                        |Enchantment  |Instantaneous          |0    
+1|0|0|0|0|0|1|0|8|1|0|0|0|1 action       |Self                           |Glibness                          |Transmutation|1 hour                 |0    
+0|1|0|0|0|0|0|0|8|1|1|1|1|1 action       |Self                           |Holy Aura                         |Abjuration   |Up to 1 minute         |1000 
+0|0|0|0|0|1|0|1|8|1|1|0|1|1 action       |150 feet                       |Incendiary Cloud                  |Conjuration  |Up to 1 minute         |0    
+0|0|0|0|0|0|0|1|8|1|1|0|1|1 action       |60 feet                        |Maze                              |Conjuration  |Up to 10 minutes       |0    
+1|0|0|0|0|0|0|1|8|1|1|0|0|1 action       |Touch                          |Mind Blank                        |Abjuration   |24 hours               |0    
+1|0|0|0|0|1|1|1|8|1|0|0|0|1 action       |60 feet                        |Power Word Stun                   |Enchantment  |Instantaneous          |0    
+0|0|1|0|0|1|0|1|8|1|1|1|0|1 action       |150 feet                       |Sunburst                          |Evocation    |Instantaneous          |0    
+0|0|0|0|0|0|0|1|8|1|1|1|0|1 action       |Unlimited                      |Telepathy                         |Evocation    |24 hours               |0    
+0|0|1|0|0|0|0|0|8|1|1|0|1|1 minute       |Sight                          |Tsunami                           |Conjuration  |Up to 6 rounds         |0    
+0|1|0|0|0|0|1|1|9|1|1|1|0|1 hour         |10 feet                        |Astral Projection                 |Necromancy   |Special                |1100 
+1|0|1|0|0|0|1|1|9|1|1|1|0|1 minute       |Touch                          |Foresight                         |Divination   |8 hours                |0    
+0|1|0|0|0|1|0|1|9|1|1|1|1|1 action       |60 feet                        |Gate                              |Conjuration  |Up to 1 minute         |5000 
+0|0|0|0|0|0|1|1|9|1|1|1|0|1 action       |30 feet                        |Imprisonment                      |Abjuration   |Until dispelled        |500  
+0|1|0|0|0|0|0|0|9|1|1|0|0|1 action       |60 feet                        |Mass Heal                         |Conjuration  |Instantaneous          |0    
+0|0|0|0|0|1|0|1|9|1|1|0|0|1 action       |1 mile                         |Meteor Swarm                      |Evocation    |Instantaneous          |0    
+1|0|0|0|0|0|0|0|9|1|1|0|0|1 action       |Touch                          |Power Word Heal                   |Evocation    |Instantaneous          |0    
+1|0|0|0|0|1|1|1|9|1|0|0|0|1 action       |60 feet                        |Power Word Kill                   |Enchantment  |Instantaneous          |0    
+0|0|0|0|0|0|0|1|9|1|1|0|0|1 action       |60 feet                        |Prismatic Wall                    |Abjuration   |10 minutes             |0    
+0|0|1|0|0|0|0|1|9|1|1|1|1|1 action       |Self                           |Shapechange                       |Transmutation|Up to 1 hour           |1500 
+0|0|1|0|0|0|0|0|9|1|1|0|1|1 action       |Sight                          |Storm of Vengeance                |Conjuration  |Up to 1 minute         |0    
+0|0|0|0|0|1|0|1|9|1|0|0|0|1 action       |Self                           |Time Stop                         |Transmutation|Instantaneous          |0    
+1|0|0|0|0|0|1|1|9|1|1|1|1|1 action       |30 feet                        |True Polymorph                    |Transmutation|Up to 1 hour           |0    
+0|1|1|0|0|0|0|0|9|1|1|1|0|1 hour         |Touch                          |True Resurrection                 |Necromancy   |Instantaneous          |25000
+0|0|0|0|0|0|0|1|9|1|1|0|1|1 action       |120 feet                       |Weird                             |Illusion     |Up to 1 minute         |0    
+0|0|0|0|0|1|0|1|9|1|0|0|0|1 action       |Self                           |Wish                              |Conjuration  |Instantaneous          |0    

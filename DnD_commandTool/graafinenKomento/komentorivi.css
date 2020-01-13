@@ -1,0 +1,16 @@
+.output {
+	/* @SuppressWarning */
+	-fx-control-inner-background: black;
+	-fx-text-fill: lime;
+}
+
+.input {
+	/* @SuppressWarning */
+	-fx-background-color: black;
+	-fx-text-fill: lime;
+}
+
+.paaikkuna {
+	/* @SuppressWarning */
+	-fx-background-color: black;
+}

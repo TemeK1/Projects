@@ -1,0 +1,15 @@
+[SISÄLLYS]
+=======
+Käytettävissä olevat komennot esimerkkeineen:
+[+]
++ 10 15 (ynnää luvut yhteen)
+[ynnää]
+ynnää 10 15 (ynnää luvut yhteen)
+[palindromiko]
+palindromiko sauppiakauppias (tarkistaa onko merkkijono palindromi)
+[isoksi]
+isoksi kissa (muuttaa merkkijonon isoksi)
+[?]
+? (apuja ohjelman käyttöön)
+[apua]
+apua (apuja ohjelman käyttöön)
