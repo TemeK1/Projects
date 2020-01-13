@@ -1,0 +1,7 @@
+table {border-collapse: collapse; margin-bottom: 5%; width: 100%;}
+
+tr:nth-child(even) {background-color: #F2F2F2; height: 20px;}
+tr:nth-child(odd) {height: 20px;}
+tr:hover {background-color: #CCFFE6;}
+
+a:link { text-decoration: none; }
